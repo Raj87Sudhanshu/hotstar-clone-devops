@@ -1,4 +1,5 @@
 # Project Name
+Hotstar-clone
 
 ## Overview
 This project is a web-based application featuring HTML, CSS, JavaScript, and Docker support. It includes components for multimedia management, such as images and videos, and leverages a Docker environment for deployment.
